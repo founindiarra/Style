@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    color: rgb(138, 69, 20);
+
+}
+
+.partie1 {
+    background-color: rgb(252, 246, 200);
+    height: 980px;
+    width: 550px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.ne {
+    display: flex;
+
+}
+
+.N1 {
+    padding: 10px 30.5px;
+}
+
+.N2 {
+    margin-left: 5px;
+    padding: 10px 30.5px;
+
+}
+
+img {
+    height: 150px;
+    width: 200px;
+    margin-left: 160px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nom {
+    padding: 5px 10px;
+}
+
+.id {
+    padding: 5px 10px;
+
+}
+
+.cours {
+    padding: 5px 10px;
+}
+
+.section {
+    padding: 5px 10px;
+}
+
+.selectinnez {
+    padding: 5px 10px;
+
+}
+
+.commentaires {
+    padding: 5px 10px;
+}
+
+input {
+    padding: 10px 150px;
+    border-radius: 5px;
+    border-color: rgb(138, 69, 20);
+}
+
+select {
+    padding: 10px 146px;
+    border-radius: 5px;
+    border-color: rgb(138, 69, 20);
+}
+
+.commentaires {
+    padding-bottom: 10px 20px;
+}
+
+button {
+    font-family: Verdana;
+    padding: 10px 100px;
+    margin-left: 165px;
+    background-color: rgb(238, 118, 118);
+    color: white;
+    border-radius: 5px;
+    border-color: rgb(235, 45, 45);
+
+}
+
+.hr2 {
+    width: 250px;
+    margin-left: 120px;
+}
+
+textarea {
+    border-color: (138, 69, 20);
+}
